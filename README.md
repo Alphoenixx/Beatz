@@ -102,6 +102,8 @@ Icons by QtAwesome
 
 Clean animations and transitions
 
+🗂 Folder Setup
+
 
 ├── audio_engine.py         # VLC wrapper for playback
 
